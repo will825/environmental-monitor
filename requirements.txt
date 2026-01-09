@@ -1,0 +1,6 @@
+adafruit-blinka
+adafruit-circuitpython-dht
+RPi.GPIO
+matplotlib
+fastapi
+uvicorn

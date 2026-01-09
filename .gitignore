@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+.venv/
+
+# Ignore generated data outputs (NOT all png globally)
+data/*.csv
+data/*.png
+
+# Ignore archive outputs (optional)
+archive/
+
+# Allow portfolio images
+!photos/**/*.png
+!photos/**/*.jpg
+!photos/**/*.jpeg
+
+# OS/editor
+.DS_Store
+*.swp
